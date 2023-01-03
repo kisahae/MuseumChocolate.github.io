@@ -1,0 +1,50 @@
+body {
+    background-color: brown;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+#mainNavbar .navbar-brand {
+    font-size: 25px;
+    color: #fcbf49;
+}
+
+#mainNavbar {
+    font-size: 25px;
+}
+
+.navbar-nav {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fcbf49;
+}
+
+#headingTitle span {
+    color: #fcbf49;
+}
+
+#headingTitle h2 {
+    font-size: 2rem;
+}
+
+#description {
+    letter-spacing: 5px;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.navbar.scrolled {
+    background-color: #332b1a;
+    transition: background 1s;
+}
